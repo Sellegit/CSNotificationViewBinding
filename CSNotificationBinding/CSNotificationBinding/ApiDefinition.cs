@@ -26,7 +26,7 @@ namespace CSNotificationBinding {
 		IntPtr Constructor (UIViewController viewController);
 
 		[Export ("setVisible:animated:completion:")]
-		void SetVisible (bool showing, bool animated, CompletionCallback completion);
+		void SetVisible (bool showing, bool animated, [NullAllowed]CompletionCallback completion);
 
 		[Export ("dismissWithStyle:message:duration:animated:")]
 		void DismissWithStyle (CSNotificationViewStyle style, string message, double duration, bool animated);

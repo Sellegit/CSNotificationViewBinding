@@ -1,5 +1,5 @@
-/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationBinding/CSNotificationBinding/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
-/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationBinding/CSNotificationBinding/bin/Debug/CSNotificationBinding.dll.mdb
-/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationBinding/CSNotificationBinding/bin/Debug/CSNotificationBinding.dll
-/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationBinding/CSNotificationBinding/obj/Debug/CSNotificationBinding.dll
-/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationBinding/CSNotificationBinding/obj/Debug/CSNotificationBinding.dll.mdb
+/Users/dementrock/Sellegit/Sellegit_Mobile/Lib/CSNotificationViewBinding/CSNotificationBinding/CSNotificationBinding/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/dementrock/Sellegit/Sellegit_Mobile/Lib/CSNotificationViewBinding/CSNotificationBinding/CSNotificationBinding/bin/Debug/CSNotificationBinding.dll.mdb
+/Users/dementrock/Sellegit/Sellegit_Mobile/Lib/CSNotificationViewBinding/CSNotificationBinding/CSNotificationBinding/bin/Debug/CSNotificationBinding.dll
+/Users/dementrock/Sellegit/Sellegit_Mobile/Lib/CSNotificationViewBinding/CSNotificationBinding/CSNotificationBinding/obj/Debug/CSNotificationBinding.dll
+/Users/dementrock/Sellegit/Sellegit_Mobile/Lib/CSNotificationViewBinding/CSNotificationBinding/CSNotificationBinding/obj/Debug/CSNotificationBinding.dll.mdb
